@@ -1,0 +1,111 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uikmWR4aZmOTWRnOXfYZ9u2">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>莊子集解</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="王先謙">王先謙</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;《莊子集解》是研究莊子最有參考價值的注本，由清代經學家、訓詁學家王先謙，博覽群書，並擇采諸家注本進行考訂，取眾家之長，間融己意，輯莊子為八卷而完成注解詳盡精闢，文字簡明練進，透過王注，除了讓讀者更親近莊子洸洋自肆的文字、沉浸於逍遙自在的哲思外，更可從中得到深層而豐沛的體悟。&lt;/p&gt;
+&lt;p&gt;基於「東里書齋」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date opf:event="modification">2022-06-10</dc:date>
+    <dc:identifier id="uikmWR4aZmOTWRnOXfYZ9u2" opf:scheme="uuid">uikmWR4aZmOTWRnOXfYZ9u2</dc:identifier>
+    <dc:subject>古籍</dc:subject>
+    <dc:subject>子部</dc:subject>
+    <dc:subject>莊子</dc:subject>
+    <dc:subject>諸子百家</dc:subject>
+    <dc:language>zh-TW</dc:language>
+    <dc:identifier opf:scheme="calibre">f6291058-2288-4ea1-a3c8-3be3d8597683</dc:identifier>
+    <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
+    <meta content="莊子集解" name="calibre:title_sort"/>
+    <meta content="horizontal-lr" name="primary-writing-mode"/>
+    <meta content="{&quot;王先謙&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="諸子百家" name="calibre:series"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="1.9.10" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="id" href="Text/5862.html" media-type="application/xhtml+xml"/>
+    <item id="id1" href="Text/5863.html" media-type="application/xhtml+xml"/>
+    <item id="id2" href="Text/5864.html" media-type="application/xhtml+xml"/>
+    <item id="id3" href="Text/5865.html" media-type="application/xhtml+xml"/>
+    <item id="id4" href="Text/5866.html" media-type="application/xhtml+xml"/>
+    <item id="id5" href="Text/5867.html" media-type="application/xhtml+xml"/>
+    <item id="id6" href="Text/5868.html" media-type="application/xhtml+xml"/>
+    <item id="id7" href="Text/5869.html" media-type="application/xhtml+xml"/>
+    <item id="id8" href="Text/5870.html" media-type="application/xhtml+xml"/>
+    <item id="id9" href="Text/5871.html" media-type="application/xhtml+xml"/>
+    <item id="id10" href="Text/5872.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="Text/5873.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="Text/5874.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="Text/5875.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="Text/5876.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="Text/5877.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="Text/5878.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="Text/5879.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="Text/5880.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="Text/5881.html" media-type="application/xhtml+xml"/>
+    <item id="id20" href="Text/5882.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="Text/5883.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="Text/5884.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="Text/5885.html" media-type="application/xhtml+xml"/>
+    <item id="id24" href="Text/5886.html" media-type="application/xhtml+xml"/>
+    <item id="id25" href="Text/5887.html" media-type="application/xhtml+xml"/>
+    <item id="id26" href="Text/5888.html" media-type="application/xhtml+xml"/>
+    <item id="id27" href="Text/5889.html" media-type="application/xhtml+xml"/>
+    <item id="id28" href="Text/5890.html" media-type="application/xhtml+xml"/>
+    <item id="id29" href="Text/5891.html" media-type="application/xhtml+xml"/>
+    <item id="id30" href="Text/5892.html" media-type="application/xhtml+xml"/>
+    <item id="id31" href="Text/5893.html" media-type="application/xhtml+xml"/>
+    <item id="id32" href="Text/5894.html" media-type="application/xhtml+xml"/>
+    <item id="id33" href="Text/5895.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
+    <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
+  </manifest>
+  <spine page-progression-direction="ltr" toc="ncx">
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+  </spine>
+  <guide>
+    </guide>
+</package>

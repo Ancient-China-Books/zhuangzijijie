@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="49c82e1f-2c4f-f91d-6a39-c33da45dcd63"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.3.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>莊子集解</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>序</text>
+      </navLabel>
+      <content src="Text/5862.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>内篇</text>
+      </navLabel>
+      <content src="Text/5863.html"/>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>逍遥遊第一</text>
+        </navLabel>
+        <content src="Text/5863.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>齊物論第二</text>
+        </navLabel>
+        <content src="Text/5864.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>養生主第三</text>
+        </navLabel>
+        <content src="Text/5865.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>人間世第四</text>
+        </navLabel>
+        <content src="Text/5866.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>德充符第五</text>
+        </navLabel>
+        <content src="Text/5867.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>大宗師第六</text>
+        </navLabel>
+        <content src="Text/5868.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>應帝王第七</text>
+        </navLabel>
+        <content src="Text/5869.html#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>外篇</text>
+      </navLabel>
+      <content src="Text/5870.html"/>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>駢拇第八</text>
+        </navLabel>
+        <content src="Text/5870.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>馬蹄第九</text>
+        </navLabel>
+        <content src="Text/5871.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>胠篋第十</text>
+        </navLabel>
+        <content src="Text/5872.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>在宥第十一</text>
+        </navLabel>
+        <content src="Text/5873.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>天地第十二</text>
+        </navLabel>
+        <content src="Text/5874.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>天道第十三</text>
+        </navLabel>
+        <content src="Text/5875.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>天運第十四</text>
+        </navLabel>
+        <content src="Text/5876.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>刻意第十五</text>
+        </navLabel>
+        <content src="Text/5877.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>繕性第十六</text>
+        </navLabel>
+        <content src="Text/5878.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>秋水第十七</text>
+        </navLabel>
+        <content src="Text/5879.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>至樂第十八</text>
+        </navLabel>
+        <content src="Text/5880.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>達生第十九</text>
+        </navLabel>
+        <content src="Text/5881.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>山木第二十</text>
+        </navLabel>
+        <content src="Text/5882.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>田子方第二十一</text>
+        </navLabel>
+        <content src="Text/5883.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>知北遊第二十二</text>
+        </navLabel>
+        <content src="Text/5884.html#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>雜篇</text>
+      </navLabel>
+      <content src="Text/5885.html"/>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>庚桑楚第二十三</text>
+        </navLabel>
+        <content src="Text/5885.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>徐无鬼第二十四</text>
+        </navLabel>
+        <content src="Text/5886.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>則陽第二十五</text>
+        </navLabel>
+        <content src="Text/5887.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>外物第二十六</text>
+        </navLabel>
+        <content src="Text/5888.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>寓言第二十七</text>
+        </navLabel>
+        <content src="Text/5889.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>讓王第二十八</text>
+        </navLabel>
+        <content src="Text/5890.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>盜跖第二十九</text>
+        </navLabel>
+        <content src="Text/5891.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>說劍第三十</text>
+        </navLabel>
+        <content src="Text/5892.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>漁父第三十一</text>
+        </navLabel>
+        <content src="Text/5893.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>列禦寇第三十二</text>
+        </navLabel>
+        <content src="Text/5894.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>天下第三十三</text>
+        </navLabel>
+        <content src="Text/5895.html#toc_1"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
