@@ -35,25 +35,25 @@ jobs:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto zhuangzijijie.epub gdrive:/Ancient-China-Books/莊子集解.epub
+          args: copyto zhuangzijijie.epub gdrive:/古籍共享电子书计划/莊子集解.epub
       - name: Sync vst to Google drive
         uses: wei/rclone@v1
         env:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto zhuangzijijie-vst.epub gdrive:/Ancient-China-Books/莊子集解-豎排.epub
+          args: copyto zhuangzijijie-vst.epub gdrive:/古籍共享电子书计划/莊子集解-豎排.epub
       - name: Sync to Freemdict
         uses: wei/rclone@v1
         env:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto zhuangzijijie.epub freemdict:/Ancient-China-Books/莊子集解.epub
+          args: copyto zhuangzijijie.epub freemdict:/古籍共享电子书计划/莊子集解.epub
       - name: Sync vst to Freemdict
         uses: wei/rclone@v1
         env:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto zhuangzijijie-vst.epub freemdict:/Ancient-China-Books/莊子集解-豎排.epub
+          args: copyto zhuangzijijie-vst.epub freemdict:/古籍共享电子书计划/莊子集解-豎排.epub
